@@ -37,10 +37,11 @@
 ## Usage
 
 #### Stylus
-1. Install the Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne](Chrome) extension.
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Install the Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
+2. Enable CSP Patching from Stylus Settings > Advanced.
+3. Choose one of the themes below to install.
+4. Install the theme.
+5. Change the `--accent()` variable to your desired color.
 
 ## 💝 Thanks to
 
