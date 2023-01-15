@@ -1,4 +1,4 @@
-[<h3 align="center">
+<h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Catppuccin for <a href="https://github.com/catppuccin/template">Reddit</a>
@@ -37,19 +37,14 @@
 ## Usage
 
 #### Stylus
-1. Install the Stylus Firefox/[https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne](Chrome) extension.
+1. Install the Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne](Chrome) extension.
 2. Open the app's settings
 3. Select `import theme` and browse to where you cloned Catppuccin
 4. Select it
 
-## 🙋 FAQ (optional)
-
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
-
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [jayylmao](https://github.com/jayylmao)
 
 &nbsp;
 
@@ -64,4 +59,3 @@
 <p align="center">
 	<a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
-](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)
