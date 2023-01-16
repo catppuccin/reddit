@@ -31,7 +31,7 @@
 </details>
 <details>
 <summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/mocha.webp"/>
+<img src=/assets/catppuccin-mocha.png />
 </details>
 
 ## Usage
