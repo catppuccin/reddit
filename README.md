@@ -39,7 +39,8 @@
 #### Stylus
 1. Install the Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
 2. Enable CSP Patching from Stylus Settings > Advanced.
-3. Choose one of the themes below to install.
+3. Choose one of the themes below to install:
+    - [🌿 Mocha](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-mocha.user.css)
 4. Install the theme.
 5. Change the `--accent()` variable to your desired color.
 
