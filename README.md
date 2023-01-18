@@ -39,7 +39,7 @@
 #### Stylus
 1. Install the Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
 2. Enable CSP Patching from Stylus Settings > Advanced.
-3. Click on your Reddit profile in the top right and enable Dark Mode.
+3. If you are going to use Latte, click on your Reddit profile in the top right and disable Dark Mode. Otherwise, keep Dark Mode enabled. The theme should mostly work either way but there are likely going to be some small things that don't.
 4. Choose one of the themes below to install:
     - [🌻 Latte](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-latte.user.css)
     - [🪴 Frappe](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-frappe.user.css)
