@@ -390,6 +390,12 @@
         --canvas: var(--base) !important;
     }
     
+    /* comments on posts, post headers, and load more comments button */
+    div.Comment, div._2otRz3OtuWajw1RleFDJ5P, div._3S95u6JHFnb4s3dszwei2- {
+        background: var(--mantle) !important;
+        color: var(--text) !important;
+    }
+    
     
     /* NFT AVATAR VIEWER */
     
