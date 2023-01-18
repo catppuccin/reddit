@@ -39,10 +39,14 @@
 #### Stylus
 1. Install the Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
 2. Enable CSP Patching from Stylus Settings > Advanced.
-3. Choose one of the themes below to install:
+3. Click on your Reddit profile in the top right and enable Dark Mode.
+4. Choose one of the themes below to install:
+    - [🌻 Latte](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-latte.user.css)
+    - [🪴 Frappe](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-frappe.user.css)
+    - [🌺 Macchiato](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-macchiato.user.css)
     - [🌿 Mocha](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-mocha.user.css)
-4. Install the theme.
-5. Change the `--accent()` variable to your desired color.
+5. Install the theme.
+6. Change the `--accent()` variable to your desired color.
 
 ## 💝 Thanks to
 
