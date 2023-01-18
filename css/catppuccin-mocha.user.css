@@ -506,6 +506,11 @@
     a[href="/now"] > div {
         background: var(--accent) !important;
     }
+
+    /* search scope pill text */
+    div[data-testid="search-scope-pill-text"] {
+        color: var(--text) !important;
+    }
     
     
     /* NAVIGATION SIDEBAR */
