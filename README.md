@@ -40,13 +40,9 @@
 1. Install the Stylus [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)/[Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extension.
 2. Enable CSP Patching from Stylus Settings > Advanced.
 3. If you are going to use Latte, click on your Reddit profile in the top right and disable Dark Mode. Otherwise, keep Dark Mode enabled. The theme should mostly work either way but there are likely going to be some small things that don't.
-4. Choose one of the themes below to install:
-    - [🌻 Latte](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-latte.user.css)
-    - [🪴 Frappe](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-frappe.user.css)
-    - [🌺 Macchiato](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-macchiato.user.css)
-    - [🌿 Mocha](https://github.com/jayylmao/catppuccin-reddit/raw/main/css/catppuccin-mocha.user.css)
-5. Install the theme.
-6. Change the `--accent()` variable to your desired color.
+4. Downloadd the theme from [here](https://raw.githubusercontent.com/catppuccin/catppuccin-reddit/main/css/reddit-catppuccin.user.css)
+5. Set the accent color and flavor from the selectors according to your preferences.
+6. Install the theme.
 
 ## 💝 Thanks to
 
