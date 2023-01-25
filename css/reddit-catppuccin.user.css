@@ -478,6 +478,121 @@
         --vds-video-bg-color: var(--crust) !important;
     }
     
+    /* reddit chat variables */
+    :root {
+        --activity-button-chatFilterColor: var(--surface0) !important;
+        --activity-button-newChatFilter-activeBg: var(--accent) !important;
+        --activity-button-newChatFilter-activeText: var(--base) !important;
+        --activity-button-newChatFilter-defaultBorder: var(--surface1) !important;
+        --activity-button-newChatFilter-defaultText: var(--text) !important;
+        --activity-button-primary: var(--accent) !important;
+        --activity-button-secondary: var(--text) !important;
+        --activity-buttonPrimary-color: var(--accent) !important;
+        --activity-buttonSecondary-active: var(--accent) !important;
+        --activity-checkbox-checked: var(--accent) !important;
+        --activity-checkbox-checkmark: var(--text) !important;
+        --activity-checkbox-unchecked: var(--base) !important;
+        --activity-checkbox-uncheckedBorder: var(--surface1) !important;
+        --activity-icon-active: var(--accent) !important;
+        --activity-icon-contrast: var(--surface1) !important;
+        --activity-icon-default: var(--subtext0) !important;
+        --activity-icon-disable: var(--surface2) !important;
+        --activity-icon-hover: var(--surface2) !important;
+        --activity-icon-nsfw-bg: var(--base) !important;
+        --activity-icon-nsfw-text: var(--text) !important;
+        --activity-icon-subIcon-backgroundColor: var(--text) !important;
+        --activity-icon-toaster: var(--crust) !important;
+        --activity-input-background: var(--mist) !important;
+        --activity-input-border: var(--surface1) !important;
+        --activity-input-channelRename: var(--subtext0) !important;
+        --activity-input-color: var(--subtext1) !important;
+        --activity-input-error: var(--red) !important;
+        --activity-input-focusBg: var(--green) !important;
+        --activity-input-focusColor: var(--text) !important;
+        --activity-input-ownerBg: var(--surface0) !important;
+        --activity-link-hoverText: var(--red) !important;
+        --activity-link-staticText: var(--accent) !important;
+        --activity-link-staticUnderline: var(--accent) !important;
+        --activity-minimizedPortal-backgroundColor-unreadFinal: var(--mantle) !important;
+        --activity-minimizedPortal-backgroundColor-unreadInitial: var(--accent) !important;
+        --activity-minimizedPortal-color-unreadFinal: var(--text) !important;
+        --activity-minimizedPortal-color-unreadInitial: var(--text) !important;
+        --activity-send-disable: var(--surface0) !important;
+        --activity-send-hover: var(--accent) !important;
+        --activity-text-active: var(--accent) !important;
+        --activity-text-fade: var(--subtext0) !important;
+        --activity-text-highlight: var(--text) !important;
+        --activity-text-light: var(--subtext0) !important;
+        --activity-text-meta: var(--subtext0) !important;
+        --activity-text-regular: var(--text) !important;
+        --activity-text-success: var(--green) !important;
+        --activity-text-tutorial: var(--rosewater) !important;
+        --activity-text-warning: var(--red) !important;
+        --addReaction-backgroundColor: var(--surface0) !important;
+        --addReaction-iconFill: var(--surface1) !important;
+        --boxShadow: var(--mist) !important;
+        --bubble-border: var(--surface1Transparent) !important;
+        --bubble-channelsFilter-background: var(--crust) !important;
+        --bubble-channelsFilter-selected: var(--overlay0) !important;
+        --bubble-color: var(--text) !important;
+        --bubble-link-color: var(--accent) !important;
+        --bubbleActions-hover: var(--surface0) !important;
+        --editName: var(--surface1) !important;
+        --layout-body: var(--mantle) !important;
+        --layout-colsBorder: var(--surface1Transparent) !important;
+        --layout-controlsBorder: var(--surface1Transparent) !important;
+        --layout-dropdown-border: var(--surface1Transparent) !important;
+        --layout-header-counterBg: var(--red) !important;
+        --layout-header-counterText: var(--text) !important;
+        --layout-overlayBackground: var(--mist) !important;
+        --layout-overlayReportFlow: var(--mist) !important;
+        --layout-scrollbar: var(--text) !important;
+        --layout-scrollbarHover: var(--accent) !important;
+        --layout-timeStamp-tooltip-background: var(--surface0) !important;
+        --message-list-item-button: var(--surface1) !important;
+        --message-list-item-onlineIndicator: var(--green) !important;
+        --message-list-item-ownerBg: var(--surface1) !important;
+        --message-list-item-richItem: var(--overlay0) !important;
+        --message-list-item-richItemBorder: var(--surface1Transparent) !important;
+        --message-list-item-white: var(--text) !important;
+        --modal-buttonsBackground: var(--text) !important;
+        --modal-primaryButtonWarning: var(--red) !important;
+        --modal-secondaryButton: var(--text) !important;
+        --newChat-inviteLink-borderColor: var(--surface1Transparent) !important;
+        --overlay-backgroundColor: var(--mantle) !important;
+        --overlay-headerColor: var(--text) !important;
+        --overlay-inputBackground: var(--crust) !important;
+        --overlay-searchBarBackground: var(--mantle) !important;
+        --prompt-tooltip-background: var(--accent) !important;
+        --searchBar-backgroundColor: var(--mantle) !important;
+        --settings-color: var(--subtext0) !important;
+        --settings-dropdownItemHoverBackground: var(--crust) !important;
+        --settings-panelBackground: var(--crust) !important;
+        --settings-panelItemHoverBackground: var(--surface0) !important;
+        --settings-panelItemSelectedBackground: var(--surface1) !important;
+        --sidebar-background: var(--surface1Transparent) !important;
+        --sidebar-basic-background-active: var(--accent) !important;
+        --sidebar-basic-background-hover: var(--mantle) !important;
+        --sidebar-footer-background: var(--crust) !important;
+        --sidebar-item-active: var(--surface1) !important;
+        --sidebar-item-hover: var(--surface0) !important;
+        --sidebar-item-selected: var(--surface2) !important;
+        --sidebar-item-text-active: var(--text) !important;
+        --sidebar-subreddit-background-active: var(--accent) !important;
+        --sidebar-subreddit-background-hover: var(--surface1) !important;
+        --sidebar-text-divider: var(--surface1) !important;
+        --skeleton-field: var(--surface2) !important;
+        --skeleton-inactive: var(--surface0) !important;
+        --subreddit-iconBg: var(--accent) !important;
+        --toast-error: var(--red) !important;
+        --toast-pending: var(--crust) !important;
+        --toast-success: var(--green) !important;
+        --uploads-progress-background: var(--subtext0) !important;
+        --uploads-progress-bar: var(--accent) !important;
+        --videoModal-button-background: var(--text) !important;
+        --videoModal-button-color: var(--mantle) !important;
+    }
+    
     ::placeholder {
         color: var(--subtext0) !important;
     }
@@ -552,6 +667,11 @@
     div._1VP69d9lk-Wk9zokOaylL {
         --background: var(--base) !important;
         --canvas: var(--base) !important;
+    }
+    
+    /* fixes profile posts not being themed */
+    div.scrollerItem > div, div[data-testid=post-container], div[style="background:#1A1A1B"], div._2otRz3OtuWajw1RleFDJ5P {
+        background: var(--base) !important;
     }
 
 
