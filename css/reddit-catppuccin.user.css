@@ -671,7 +671,7 @@
     
     /* fixes profile posts not being themed */
     div.scrollerItem > div, div[data-testid=post-container], div[style="background:#1A1A1B"], div._2otRz3OtuWajw1RleFDJ5P {
-        background: var(--base) !important;
+        background: var(--mantle) !important;
     }
 
 
