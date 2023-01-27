@@ -962,6 +962,12 @@
         color: var(--blue) !important;
     }
 
+    /* CREATE POST */
+    /* checkbox thing */
+    ._2VtQ8EjxlJXdicVJhc73gQ {
+        fill: var(--accent) !important;
+    }
+
 
     /* REPORT MODAL */
 
@@ -1092,5 +1098,88 @@
     
     div.HQ2VJViRjokXpRbJzPvvc::after {
         border-top-color: var(--mantle) !important;
+    }
+
+    /* MESSAGES */
+
+
+    /* main page */
+    body.embedded-page {
+        background-color: var(--base) !important;
+        color: var(--text) !important;
+    }
+
+    /* header, menubar, page name */
+    body.embedded-page #header, body.embedded-page .menuarea, body.embedded-page .pagename {
+        background-color: var(--mantle);
+    }
+
+    /* links */
+    body.embedded-page a {
+        color: var(--accent) !important;
+    }
+
+    /* main body */
+    .embedded-page .content > .sitetable, .embedded-page.helpcenter-page .content, .embedded-page.compose-page .content {
+        background-color: var(--surface0) !important;
+        color: var(--text) !important;
+    }
+
+    .embedded-page .content > .sitetable > div:nth-of-type(4n+1), .embedded-page.helpcenter-page .content > div:nth-of-type(4n+1), .embedded-page.compose-page .content > div:nth-of-type(4n+1) {
+        background-color: var(--surface1) !important;
+    }
+
+    /* from, sent <x days ago>, etc (dunno how to explain this lol) */
+    .embedded-page .tagline {
+        color: var(--subtext1) !important;
+    }
+
+    /* messages text color */
+    .embedded-page .message.recipient > .entry, .embedded-page .md {
+        color: var(--text) !important;
+    }
+
+    .message.message-parent > .entry, .message.message-reply > .entry {
+        color: var(--green) !important;
+    }
+
+    /* markdown code */
+    .embedded-page .md p > code {
+        color: var(--blue) !important;
+    }
+
+    /* no results error */
+    .embedded-page #noresults {
+        color: var(--text) !important;
+    }
+
+    /* gr(a|e)y */ 
+    .embedded-page .gray, .gray {
+        color: var(--subtext0) !important;
+    }
+
+    /* send message input */
+    .roundfield textarea, .roundfield input[type="text"], .roundfield input[type="url"], .roundfield input[type="password"], .roundfield input[type="number"], #compose-message .roundfield select {
+        border: var(--subtext0) !important;
+        background-color: var(--mantle) !important;
+        color: var(--text) !important;
+    }
+
+    /* footer menu title */
+    .flat-vert.title {
+        color: var(--subtext1) !important;
+    }
+
+    /* footer */
+    .footer {
+        border: 1px solid var(--text) !important;
+    }
+
+    .footer .col:not(:first-child) {
+        border-left: 1px solid var(--subtext1) !important;
+    }
+
+    .bottommenu {
+        color: var(--subtext1) !important;
     }
 }
