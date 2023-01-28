@@ -784,6 +784,12 @@
         fill: var(--text) !important;
     }
 
+    /* notification icon */
+    button[aria-label="Open notifications inbox"] > div > span {
+        background: var(--accent) !important;
+        color: var(--mantle) !important;
+    }
+
     /* advertise button */
     #change-username-tooltip-id > span._2I12Htze2UzJmmfnrgYJOn > a {
         background: var(--surface0) !important;
