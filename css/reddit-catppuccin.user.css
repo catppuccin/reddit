@@ -848,6 +848,11 @@
         --posttitletextcolor: var(--text) !important;
     }
 
+    /* safe search toggle */
+    button#safe-search-toggle[aria-checked=true] {
+        background: var(--accent) !important;
+    }
+
 
     /* NAVIGATION SIDEBAR */
 
