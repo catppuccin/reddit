@@ -1115,6 +1115,11 @@
         background: var(--mist) !important;
         color: var(--text) !important;
     }
+
+    /* comment search bar */
+    input#comment_search-bar {
+        background: var(--base) !important;
+    }
     
     
     /* MULTIREDDITS/CUSTOM FEEDS */
